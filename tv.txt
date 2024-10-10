@@ -126,4 +126,24 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
 山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
 山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+
+📡经典音乐👉,#genre#
+CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+北京好音乐,http://live.xmcdn.com/live/964/64.m3u8
+北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
+萤火虫网络电台,https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
+亚洲音乐台,http://lhttp.qingting.fm/live/5022405/64k.mp3
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+动感音乐,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+
+
  

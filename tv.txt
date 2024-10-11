@@ -116,14 +116,14 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D#http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
  
 📡山东地方👉,#genre#
-山东齐鲁,http://221.0.78.198:1681/hls/10225/index.m3u8
-山东综艺,http://221.0.78.198:1681/hls/10220/index.m3u8
-山东文旅,http://221.0.78.198:1681/hls/10219/index.m3u8
-山东新闻,http://221.0.78.198:1681/hls/10222/index.m3u8
-山东农科,http://221.0.78.198:1681/hls/10223/index.m3u8
-山东体育,http://221.0.78.198:1681/hls/10224/index.m3u8
-山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
-山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
+山东齐鲁,http://www.xuweihome.vip:2222/udp/239.253.248.18:8000
+山东文旅,http://www.xuweihome.vip:2222/udp/239.253.248.19:8000
+山东生活,http://www.xuweihome.vip:2222/udp/239.253.248.20:8000
+山东综艺,http://www.xuweihome.vip:2222/udp/239.253.248.21:8000
+山东体育,http://www.xuweihome.vip:2222/udp/239.253.248.22:8000
+山东新闻,http://www.xuweihome.vip:2222/udp/239.253.248.23:8000
+山东农科,http://www.xuweihome.vip:2222/udp/239.253.248.24:8000
+山东少儿,http://www.xuweihome.vip:2222/udp/239.253.248.25:8000
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 📡经典音乐👉,#genre#

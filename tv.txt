@@ -124,7 +124,7 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 山东体育,http://221.0.78.198:1681/hls/10224/index.m3u8
 山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
 山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
-山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 📡经典音乐👉,#genre#
 CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

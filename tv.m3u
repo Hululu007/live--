@@ -238,7 +238,7 @@ http://221.0.78.198:1681/hls/10226/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="📡山东地方👉",山东少儿
 http://221.0.78.198:1681/hls/10227/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="📡山东地方👉",山东教育
-https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+http://221.0.78.198:1681/hls/10221/index.m3u8
 #EXTINF:-1 tvg-name="CNR音乐之声" tvg-logo="https://live.fanmingming.com/tv/CNR音乐之声.png" group-title="📡经典音乐👉",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-name="CNR经典音乐" tvg-logo="https://live.fanmingming.com/tv/CNR经典音乐.png" group-title="📡经典音乐👉",CNR经典音乐

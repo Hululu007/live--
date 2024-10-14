@@ -16,6 +16,7 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-4K, http://112.226.139.185:9999/rtp/239.253.254.122:8000
 CGTN-记录,https://0472.org/hls/cgtnd.m3u8
 CGTN-英语,https://0472.org/hls/cgtn.m3u8
 CGTN-俄语,https://0472.org/hls/cgtne.m3u8
@@ -47,11 +48,11 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 西藏卫视,http://117.72.68.25:9930/xizang.php?id=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-青海卫视,http://117.72.68.25:9930/migu.php?id=qhws#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+青海卫视,http://117.72.68.25:9930/migu.php?id=qhws#http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+云南卫视,http://112.226.139.185:9999/rtp/239.253.254.196:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
@@ -116,15 +117,15 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D#http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
  
 📡山东地方👉,#genre#
-山东齐鲁,http://www.xuweihome.vip:2222/udp/239.253.248.18:8000
-山东文旅,http://112.226.139.185:9999/rtp/239.253.254.160:8000#http://www.xuweihome.vip:2222/udp/239.253.248.19:8000
-山东生活,http://112.226.139.185:9999/rtp/239.253.254.151:8000#http://www.xuweihome.vip:2222/udp/239.253.248.20:8000
-山东综艺,http://112.226.139.185:9999/rtp/239.253.254.159:8000#http://www.xuweihome.vip:2222/udp/239.253.248.21:8000
-山东体育,http://112.226.139.185:9999/rtp/239.253.254.158:8000#http://www.xuweihome.vip:2222/udp/239.253.248.22:8000
-山东新闻,http://www.xuweihome.vip:2222/udp/239.253.248.23:8000
-山东农科,http://www.xuweihome.vip:2222/udp/239.253.248.24:8000
-山东少儿,http://www.xuweihome.vip:2222/udp/239.253.248.25:8000
-山东教育,http://www.xuweihome.vip:2222/udp/239.253.248.59:8000
+山东齐鲁,http://112.226.139.185:9999/rtp/239.253.254.114:8000
+山东文旅,http://112.226.139.185:9999/rtp/239.253.254.160:8000
+山东生活,http://112.226.139.185:9999/rtp/239.253.254.151:8000
+山东综艺,http://112.226.139.185:9999/rtp/239.253.254.159:8000
+山东体育,http://112.226.139.185:9999/rtp/239.253.254.158:8000
+山东新闻,http://112.226.139.185:9999/rtp/239.253.254.23:8000
+山东农科,http://112.226.139.185:9999/rtp/239.253.254.24:8000
+山东少儿,http://112.226.139.185:9999/rtp/239.253.254.25:8000
+山东教育,http://112.226.139.185:9999/rtp/239.253.254.59:8000
 
 📡经典音乐👉,#genre#
 CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

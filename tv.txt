@@ -51,7 +51,7 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 西藏卫视,http://117.72.68.25:9930/xizang.php?id=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-青海卫视,http://117.72.68.25:9930/migu.php?id=qhws#http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+青海卫视,http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 云南卫视,http://112.226.139.185:9999/rtp/239.253.254.196:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8

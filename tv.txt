@@ -62,6 +62,7 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+湾区卫视,http://rihou.cc:567/dd.php?id=dwqws&.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8

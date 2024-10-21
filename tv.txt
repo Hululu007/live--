@@ -53,8 +53,8 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ce86a4e547fb9eb23bd11a3ea3fed741&time=670cf6f9#http://117.72.68.25:9930/xizang.php?id=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 青海卫视,http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 云南卫视,http://112.226.139.185:9999/rtp/239.253.254.196:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+山西卫视,http://223.10.39.207:8082/rtp/239.1.1.1:8001#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+甘肃卫视,http://223.10.39.207:8082/rtp/239.1.1.51:8051#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8

@@ -16,7 +16,7 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4K, http://112.226.139.185:9999/rtp/239.253.254.122:8000
+CCTV-4K,http://1.83.124.195:8888/udp/239.111.205.38:5140
 CGTN-记录,https://0472.org/hls/cgtnd.m3u8
 CGTN-英语,https://0472.org/hls/cgtn.m3u8
 CGTN-俄语,https://0472.org/hls/cgtne.m3u8

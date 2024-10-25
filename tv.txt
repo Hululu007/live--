@@ -51,11 +51,11 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ce86a4e547fb9eb23bd11a3ea3fed741&time=670cf6f9#http://117.72.68.25:9930/xizang.php?id=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-青海卫视,http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-云南卫视,http://112.226.139.185:9999/rtp/239.253.254.196:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+青海卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3#http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3#http://112.226.139.185:9999/rtp/239.253.254.195:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+云南卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3#http://112.226.139.185:9999/rtp/239.253.254.196:8000#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 山西卫视,http://223.10.39.207:8082/rtp/239.1.1.1:8001#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 甘肃卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+陕西卫视,http://1.83.124.195:8888/udp/239.111.205.35:5140#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8

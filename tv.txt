@@ -16,7 +16,7 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4K,http://1.83.124.195:8888/udp/239.111.205.38:5140#http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.232:80/PLTV/4/224/3221228228/1.m3u8?accountinfo=XEmYXzMzA4OzYTN%2BBt60Jm9KHip%2FdkEqlB%2BL%2BapfzSe3sKM6ExysDo0g3A9CbIkxBfxBLbrQL5YugeRb4LXRK6BKAGYhDwAps20JnvTCWG%2FbxeTsSTP9nS4YR%2BTu4z2IFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026021533%2C-1%2C36.156.32.22%2C20241026021533%2CG_CCTV-4K-HD%2C1734207954303_79%3ADE%3AFB%3ABF%3A1F%3A97%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000014797021_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_CCTV-4K-HD%2FG_CCTV-4K-HD&icpid=88888888&from=5&popid=5&hms_devid=6453&prioritypopid=5
+CCTV-4K,http://1.83.124.195:8888/udp/239.111.205.38:5140
 CGTN-记录,https://0472.org/hls/cgtnd.m3u8
 CGTN-英语,https://0472.org/hls/cgtn.m3u8
 CGTN-俄语,https://0472.org/hls/cgtne.m3u8
@@ -58,7 +58,6 @@ CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 陕西卫视,http://1.83.124.195:8888/udp/239.111.205.35:5140#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-三沙卫视,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.220:80/PLTV/4/224/3221228626/1.m3u8?accountinfo=dOl7MkZ6t4eHyt6E0%2FEjttt9H0vje3fkmdFPyG3mKoAq%2FpkEzcEgSA5jxU7E691yzH4TZb4GoggNh%2FREvXNtUfiSDw0kGdPhYPMSACnTmM73WKtfDupgC%2BrOkR5lZAI3bF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241026030523%2C-1%2C112.25.63.228%2C20241026030523%2CG_SANSHA-HQ%2C1734230527115_17%3A44%3A47%3AEA%3A19%3A0E%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000018000405_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_SANSHA-HQ%2FG_SANSHA-HQ&icpid=88888888&from=5&popid=5&hms_devid=103&prioritypopid=5
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
